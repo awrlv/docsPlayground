@@ -4,6 +4,7 @@ keywords: sample homepage
 tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
+toc: false
 summary: The topics in this Help system will help you get started quickly with Product 1 or Product 2, as well as provide additional information on installing and configuring Product 1 or Product 2.
 ---
 
