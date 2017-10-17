@@ -19,6 +19,6 @@ This is a test of editing in prose.
 
 Let's do another test.
 
-Monday, October 16, 2017
+Today is now Tuesday, October 17, 2017
 
 {% include links.html %}
